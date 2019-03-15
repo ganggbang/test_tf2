@@ -1,416 +1,480 @@
 item {
-	id: 1
-	name: 'tshirt_number'
-}
-item {
-	id: 2
-	name: 'shoes'
-}
-item {
-	id: 3
-	name: 'sparrow'
-}
-item {
-	id: 4
-	name: 'photo'
-}
-item {
-	id: 5
-	name: 'laptop'
-}
-item {
-	id: 6
-	name: 'scotty'
-}
-item {
-	id: 7
-	name: 'earth'
-}
-item {
-	id: 8
-	name: 'chair'
-}
-item {
-	id: 9
-	name: 'tablet'
-}
-item {
-	id: 10
-	name: 'cup'
-}
-item {
-	id: 11
-	name: 'bike'
-}
-item {
-	id: 12
-	name: 'soccer'
-}
-item {
-	id: 13
-	name: 'hat'
-}
-item {
-	id: 14
-	name: 'seazer'
-}
-item {
-	id: 15
-	name: 'kattle'
-}
-item {
-	id: 16
-	name: 'watch'
-}
-item {
-	id: 18
-	name: 'fan'
-}
-item {
-	id: 19
-	name: 'gift'
-}
-item {
-	id: 20
-	name: 'upper'
-}
-item {
-	id: 21
-	name: 'glove'
-}
-item {
-	id: 22
-	name: 'bag'
-}
-item {
-	id: 23
-	name: 'arrow'
-}
-item {
-	id: 24
-	name: 'bowling'
-}
-item {
-	id: 25
-	name: 'fork_and_spoon'
-}
-item {
-	id: 26
-	name: 'bowl_with_chopsticks'
-}
-item {
-	id: 27
-	name: 'bicycle'
-}
-item {
-	id: 28
-	name: 'house'
-}
-item {
-	id: 29
-	name: 'scraper'
-}
-item {
-	id: 30
-	name: 'burger'
-}
-item {
-	id: 31
-	name: 'bowling_pins'
-}
-item {
-	id: 32
-	name: 'charry'
-}
-item {
-	id: 33
-	name: 'racket'
-}
-item {
-	id: 34
-	name: 'knife_fork_and_spoon'
-}
-item {
-	id: 35
-	name: 'hammer'
-}
-item {
-	id: 36
-	name: 'flower'
-}
-item {
-	id: 37
-	name: 'sun'
-}
-item {
-	id: 38
-	name: 'saucepan'
-}
-item {
-	id: 39
-	name: 'bowling_ball'
-}
-item {
-	id: 40
-	name: 'heel_shoes'
-}
-item {
-	id: 41
-	name: 'badge'
-}
-item {
-	id: 42
-	name: 'umbrella'
-}
-item {
-	id: 43
-	name: 'guitar'
-}
-item {
-	id: 44
-	name: 'roasted_chicken'
-}
-item {
-	id: 45
-	name: 'baseball'
-}
-item {
-	id: 46
-	name: 'key'
-}
-item {
-	id: 48
-	name: 'shirt_stud'
-}
-item {
-	id: 49
-	name: 'Speaker'
-}
-item {
-	id: 50
-	name: 'LCD'
-}
-item {
-	id: 51
-	name: 'vault'
-}
-item {
-	id: 52
-	name: 'apple'
-}
-item {
-	id: 53
-	name: 'bell'
-}
-item {
-	id: 54
-	name: 'socks'
-}
-item {
-	id: 55
-	name: 'headphone'
-}
-item {
-	id: 56
-	name: 'disket'
-}
-item {
-	id: 57
-	name: 'hood'
-}
-item {
-	id: 58
-	name: 'cloud_with_lightning'
-}
-item {
-	id: 59
-	name: 'basketball'
-}
-item {
-	id: 60
-	name: 'fork_spoon'
-}
-item {
-	id: 61
-	name: 'usb'
-}
-item {
-	id: 62
-	name: 'tennis'
-}
-item {
-	id: 63
-	name: 'camera'
-}
-item {
-	id: 64
-	name: 'geetar'
-}
-item {
-	id: 65
-	name: 'cup_with_plate'
-}
-item {
-	id: 66
-	name: 'wat'
-}
-item {
-	id: 67
-	name: 'jug'
-}
-item {
 	id: 68
-	name: 'bus'
-}
-item {
-	id: 69
-	name: 'glass'
-}
-item {
-	id: 70
-	name: 'flag'
-}
-item {
-	id: 71
-	name: 'shuttlecock'
-}
-item {
-	id: 72
-	name: 'brinjal'
-}
-item {
-	id: 73
-	name: 'pouch'
+	 name: flag
 }
 item {
 	id: 74
-	name: 'teapot'
+	 name: frock
 }
 item {
-	id: 76
-	name: 'swimming_ring'
+	id: 31
+	 name: bowling_pin
 }
 item {
-	id: 77
-	name: 'frock'
+	id: 36
+	 name: flower
 }
 item {
-	id: 78
-	name: 'car'
-}
-item {
-	id: 79
-	name: 'tree'
-}
-item {
-	id: 80
-	name: 'painting_board'
-}
-item {
-	id: 81
-	name: 'aeroplane'
-}
-item {
-	id: 82
-	name: 'cake'
-}
-item {
-	id: 83
-	name: 'apple_in_plate'
-}
-item {
-	id: 85
-	name: 'telephone'
-}
-item {
-	id: 86
-	name: 'tshirt'
-}
-item {
-	id: 88
-	name: 'ship'
-}
-item {
-	id: 89
-	name: 'mouse'
-}
-item {
-	id: 90
-	name: 'telephone_receiver'
-}
-item {
-	id: 91
-	name: 'bowling_pin'
-}
-item {
-	id: 93
-	name: 'shirt'
-}
-item {
-	id: 94
-	name: 'toaster'
-}
-item {
-	id: 95
-	name: 'cross'
-}
-item {
-	id: 97
-	name: 'lamp'
-}
-item {
-	id: 99
-	name: 'plant'
-}
-item {
-	id: 100
-	name: 'ball'
-}
-item {
-	id: 101
-	name: 'pear'
+	id: 8
+	 name: chair
 }
 item {
 	id: 102
-	name: 'bilding'
+	 name: mobile
 }
 item {
-	id: 103
-	name: 'hand_saw'
+	id: 97
+	 name: hand_saw
 }
 item {
-	id: 104
-	name: 'pressure_cooker'
+	id: 37
+	 name: sun
 }
 item {
-	id: 105
-	name: 'bear'
+	id: 69
+	 name: shuttlecock
+}
+item {
+	id: 12
+	 name: soccer
+}
+item {
+	id: 43
+	 name: chicken
+}
+item {
+	id: 40
+	 name: badge
+}
+item {
+	id: 39
+	 name: heel_shoes
+}
+item {
+	id: 57
+	 name: cloud_with_lightning
+}
+item {
+	id: 29
+	 name: scraper
+}
+item {
+	id: 78
+	 name: aeroplane
+}
+item {
+	id: 60
+	 name: usb
+}
+item {
+	id: 100
+	 name: pool
+}
+item {
+	id: 76
+	 name: tree
+}
+item {
+	id: 70
+	 name: brinjal
+}
+item {
+	id: 45
+	 name: key
+}
+item {
+	id: 73
+	 name: swimming_ring
+}
+item {
+	id: 1
+	 name: shirt_number
+}
+item {
+	id: 46
+	 name: flawer
+}
+item {
+	id: 61
+	 name: tennis
+}
+item {
+	id: 84
+	 name: ship
+}
+item {
+	id: 3
+	 name: sparrow
+}
+item {
+	id: 1
+	 name: tshirt_number
+}
+item {
+	id: 32
+	 name: charry
 }
 item {
 	id: 106
-	name: 'pool'
+	 name: watermelon
+}
+item {
+	id: 101
+	 name: graduation_cap
+}
+item {
+	id: 33
+	 name: racket
+}
+item {
+	id: 98
+	 name: pressure_cooker
+}
+item {
+	id: 62
+	 name: camera
+}
+item {
+	id: 63
+	 name: geetar
+}
+item {
+	id: 26
+	 name: bowl_with_chopsticks
+}
+item {
+	id: 26
+	 name: bowl_chosticks
+}
+item {
+	id: 105
+	 name: axe
+}
+item {
+	id: 93
+	 name: plant
+}
+item {
+	id: 87
+	 name: shirt
+}
+item {
+	id: 47
+	 name: shirt_stud
+}
+item {
+	id: 80
+	 name: apple_in_plate
+}
+item {
+	id: 85
+	 name: mouse
+}
+item {
+	id: 86
+	 name: telephone_receiver
+}
+item {
+	id: 34
+	 name: fork_knife_spoon
+}
+item {
+	id: 94
+	 name: ball
+}
+item {
+	id: 25
+	 name: fock_spoon
+}
+item {
+	id: 65
+	 name: jug
+}
+item {
+	id: 28
+	 name: house
+}
+item {
+	id: 20
+	 name: upper
+}
+item {
+	id: 31
+	 name: bowling pins
+}
+item {
+	id: 96
+	 name: building
+}
+item {
+	id: 89
+	 name: cross
+}
+item {
+	id: 42
+	 name: guitar
+}
+item {
+	id: 43
+	 name: roasted_chicken
+}
+item {
+	id: 6
+	 name: scooty
+}
+item {
+	id: 16
+	 name: watch
+}
+item {
+	id: 52
+	 name: bell
+}
+item {
+	id: 91
+	 name: lamp
+}
+item {
+	id: 38
+	 name: saucepan
+}
+item {
+	id: 92
+	 name: cap
+}
+item {
+	id: 48
+	 name: speaker
+}
+item {
+	id: 64
+	 name: cup_plate
+}
+item {
+	id: 72
+	 name: teapot
+}
+item {
+	id: 34
+	 name: knife_fork_and_spoon
+}
+item {
+	id: 53
+	 name: socks
+}
+item {
+	id: 75
+	 name: car
+}
+item {
+	id: 21
+	 name: glove
+}
+item {
+	id: 11
+	 name: bike
+}
+item {
+	id: 58
+	 name: basketball
+}
+item {
+	id: 30
+	 name: burger
+}
+item {
+	id: 5
+	 name: laptop
+}
+item {
+	id: 10
+	 name: cup
+}
+item {
+	id: 64
+	 name: cup_in_plate
+}
+item {
+	id: 6
+	 name: scotty
+}
+item {
+	id: 34
+	 name: knife_fock_spoon
+}
+item {
+	id: 51
+	 name: apple
+}
+item {
+	id: 95
+	 name: pear
+}
+item {
+	id: 77
+	 name: painting_board
+}
+item {
+	id: 81
+	 name: truck
+}
+item {
+	id: 24
+	 name: bowling
+}
+item {
+	id: 54
+	 name: headphone
+}
+item {
+	id: 14
+	 name: seazer
+}
+item {
+	id: 25
+	 name: fork_spoon
+}
+item {
+	id: 35
+	 name: hammer
+}
+item {
+	id: 22
+	 name: bag
 }
 item {
 	id: 107
-	name: 'graduation_cap'
+	 name: cloud_lightning
 }
 item {
-	id: 108
-	name: 'mobile'
+	id: 24
+	 name: bowling_ball
 }
 item {
-	id: 109
-	name: 'jacket'
+	id: 104
+	 name: washing_machine
 }
 item {
-	id: 110
-	name: 'washing_machine'
+	id: 41
+	 name: umbrella
 }
 item {
-	id: 111
-	name: 'axe'
+	id: 13
+	 name: hat
 }
 item {
-	id: 112
-	name: 'watermelon'
+	id: 34
+	 name: knife_fork_spoon
+}
+item {
+	id: 50
+	 name: vault
+}
+item {
+	id: 15
+	 name: kattle
+}
+item {
+	id: 66
+	 name: bus
+}
+item {
+	id: 90
+	 name: ambulance
+}
+item {
+	id: 88
+	 name: toaster
+}
+item {
+	id: 16
+	 name: wat
+}
+item {
+	id: 49
+	 name: lcd
+}
+item {
+	id: 55
+	 name: disket
+}
+item {
+	id: 2
+	 name: shoes
+}
+item {
+	id: 34
+	 name: fock_spoon_knife
+}
+item {
+	id: 82
+	 name: telephone
+}
+item {
+	id: 17
+	 name: fan
+}
+item {
+	id: 79
+	 name: cake
+}
+item {
+	id: 67
+	 name: glass
+}
+item {
+	id: 56
+	 name: hood
+}
+item {
+	id: 96
+	 name: bilding
+}
+item {
+	id: 64
+	 name: cup_with_plate
+}
+item {
+	id: 7
+	 name: earth
+}
+item {
+	id: 44
+	 name: baseball
+}
+item {
+	id: 103
+	 name: jacket
+}
+item {
+	id: 27
+	 name: bicycle
+}
+item {
+	id: 23
+	 name: arrow
+}
+item {
+	id: 19
+	 name: gift
+}
+item {
+	id: 31
+	 name: bowling_pins
+}
+item {
+	id: 26
+	 name: bowl_chopsticks
+}
+item {
+	id: 18
+	 name: roasted_meat
+}
+item {
+	id: 9
+	 name: tablet
+}
+item {
+	id: 83
+	 name: tshirt
 }
