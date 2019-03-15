@@ -1,412 +1,413 @@
-item {
+
+ item {
 	id: 68
-	 name: flag
+	name: 'flag'
 }
 item {
 	id: 74
-	 name: frock
+	name: 'frock'
 }
 item {
 	id: 31
-	 name: bowling_pin
+	name: 'bowling_pin'
 }
 item {
 	id: 36
-	 name: flower
+	name: 'flower'
 }
 item {
 	id: 8
-	 name: chair
+	name: 'chair'
 }
 item {
 	id: 102
-	 name: mobile
+	name: 'mobile'
 }
 item {
 	id: 97
-	 name: hand_saw
+	name: 'hand_saw'
 }
 item {
 	id: 37
-	 name: sun
+	name: 'sun'
 }
 item {
 	id: 69
-	 name: shuttlecock
+	name: 'shuttlecock'
 }
 item {
 	id: 12
-	 name: soccer
+	name: 'soccer'
 }
 item {
 	id: 43
-	 name: chicken
+	name: 'chicken'
 }
 item {
 	id: 40
-	 name: badge
+	name: 'badge'
 }
 item {
 	id: 39
-	 name: heel_shoes
+	name: 'heel_shoes'
 }
 item {
 	id: 57
-	 name: cloud_with_lightning
+	name: 'cloud_with_lightning'
 }
 item {
 	id: 29
-	 name: scraper
+	name: 'scraper'
 }
 item {
 	id: 78
-	 name: aeroplane
+	name: 'aeroplane'
 }
 item {
 	id: 60
-	 name: usb
+	name: 'usb'
 }
 item {
 	id: 100
-	 name: pool
+	name: 'pool'
 }
 item {
 	id: 76
-	 name: tree
+	name: 'tree'
 }
 item {
 	id: 70
-	 name: brinjal
+	name: 'brinjal'
 }
 item {
 	id: 45
-	 name: key
+	name: 'key'
 }
 item {
 	id: 73
-	 name: swimming_ring
+	name: 'swimming_ring'
 }
 item {
 	id: 1
-	 name: shirt_number
+	name: 'shirt_number'
 }
 item {
 	id: 46
-	 name: flawer
+	name: 'flawer'
 }
 item {
 	id: 61
-	 name: tennis
+	name: 'tennis'
 }
 item {
 	id: 84
-	 name: ship
+	name: 'ship'
 }
 item {
 	id: 3
-	 name: sparrow
+	name: 'sparrow'
 }
 item {
 	id: 32
-	 name: charry
+	name: 'charry'
 }
 item {
 	id: 106
-	 name: watermelon
+	name: 'watermelon'
 }
 item {
 	id: 101
-	 name: graduation_cap
+	name: 'graduation_cap'
 }
 item {
 	id: 33
-	 name: racket
+	name: 'racket'
 }
 item {
 	id: 98
-	 name: pressure_cooker
+	name: 'pressure_cooker'
 }
 item {
 	id: 62
-	 name: camera
+	name: 'camera'
 }
 item {
 	id: 63
-	 name: geetar
+	name: 'geetar'
 }
 item {
 	id: 26
-	 name: bowl_with_chopsticks
+	name: 'bowl_with_chopsticks'
 }
 item {
 	id: 105
-	 name: axe
+	name: 'axe'
 }
 item {
 	id: 93
-	 name: plant
+	name: 'plant'
 }
 item {
 	id: 87
-	 name: shirt
+	name: 'shirt'
 }
 item {
 	id: 47
-	 name: shirt_stud
+	name: 'shirt_stud'
 }
 item {
 	id: 80
-	 name: apple_in_plate
+	name: 'apple_in_plate'
 }
 item {
 	id: 85
-	 name: mouse
+	name: 'mouse'
 }
 item {
 	id: 86
-	 name: telephone_receiver
+	name: 'telephone_receiver'
 }
 item {
 	id: 34
-	 name: fork_knife_spoon
+	name: 'fork_knife_spoon'
 }
 item {
 	id: 94
-	 name: ball
+	name: 'ball'
 }
 item {
 	id: 25
-	 name: fock_spoon
+	name: 'fock_spoon'
 }
 item {
 	id: 65
-	 name: jug
+	name: 'jug'
 }
 item {
 	id: 28
-	 name: house
+	name: 'house'
 }
 item {
 	id: 20
-	 name: upper
+	name: 'upper'
 }
 item {
 	id: 96
-	 name: building
+	name: 'building'
 }
 item {
 	id: 89
-	 name: cross
+	name: 'cross'
 }
 item {
 	id: 42
-	 name: guitar
+	name: 'guitar'
 }
 item {
 	id: 6
-	 name: scooty
+	name: 'scooty'
 }
 item {
 	id: 16
-	 name: watch
+	name: 'watch'
 }
 item {
 	id: 52
-	 name: bell
+	name: 'bell'
 }
 item {
 	id: 91
-	 name: lamp
+	name: 'lamp'
 }
 item {
 	id: 38
-	 name: saucepan
+	name: 'saucepan'
 }
 item {
 	id: 92
-	 name: cap
+	name: 'cap'
 }
 item {
 	id: 48
-	 name: speaker
+	name: 'speaker'
 }
 item {
 	id: 64
-	 name: cup_plate
+	name: 'cup_plate'
 }
 item {
 	id: 72
-	 name: teapot
+	name: 'teapot'
 }
 item {
 	id: 53
-	 name: socks
+	name: 'socks'
 }
 item {
 	id: 75
-	 name: car
+	name: 'car'
 }
 item {
 	id: 21
-	 name: glove
+	name: 'glove'
 }
 item {
 	id: 11
-	 name: bike
+	name: 'bike'
 }
 item {
 	id: 58
-	 name: basketball
+	name: 'basketball'
 }
 item {
 	id: 30
-	 name: burger
+	name: 'burger'
 }
 item {
 	id: 5
-	 name: laptop
+	name: 'laptop'
 }
 item {
 	id: 10
-	 name: cup
+	name: 'cup'
 }
 item {
 	id: 51
-	 name: apple
+	name: 'apple'
 }
 item {
 	id: 95
-	 name: pear
+	name: 'pear'
 }
 item {
 	id: 77
-	 name: painting_board
+	name: 'painting_board'
 }
 item {
 	id: 81
-	 name: truck
+	name: 'truck'
 }
 item {
 	id: 24
-	 name: bowling
+	name: 'bowling'
 }
 item {
 	id: 54
-	 name: headphone
+	name: 'headphone'
 }
 item {
 	id: 14
-	 name: seazer
+	name: 'seazer'
 }
 item {
 	id: 35
-	 name: hammer
+	name: 'hammer'
 }
 item {
 	id: 22
-	 name: bag
+	name: 'bag'
 }
 item {
 	id: 107
-	 name: cloud_lightning
+	name: 'cloud_lightning'
 }
 item {
 	id: 104
-	 name: washing_machine
+	name: 'washing_machine'
 }
 item {
 	id: 41
-	 name: umbrella
+	name: 'umbrella'
 }
 item {
 	id: 13
-	 name: hat
+	name: 'hat'
 }
 item {
 	id: 50
-	 name: vault
+	name: 'vault'
 }
 item {
 	id: 15
-	 name: kattle
+	name: 'kattle'
 }
 item {
 	id: 66
-	 name: bus
+	name: 'bus'
 }
 item {
 	id: 90
-	 name: ambulance
+	name: 'ambulance'
 }
 item {
 	id: 88
-	 name: toaster
+	name: 'toaster'
 }
 item {
 	id: 49
-	 name: lcd
+	name: 'lcd'
 }
 item {
 	id: 55
-	 name: disket
+	name: 'disket'
 }
 item {
 	id: 2
-	 name: shoes
+	name: 'shoes'
 }
 item {
 	id: 82
-	 name: telephone
+	name: 'telephone'
 }
 item {
 	id: 17
-	 name: fan
+	name: 'fan'
 }
 item {
 	id: 79
-	 name: cake
+	name: 'cake'
 }
 item {
 	id: 67
-	 name: glass
+	name: 'glass'
 }
 item {
 	id: 56
-	 name: hood
+	name: 'hood'
 }
 item {
 	id: 7
-	 name: earth
+	name: 'earth'
 }
 item {
 	id: 44
-	 name: baseball
+	name: 'baseball'
 }
 item {
 	id: 103
-	 name: jacket
+	name: 'jacket'
 }
 item {
 	id: 27
-	 name: bicycle
+	name: 'bicycle'
 }
 item {
 	id: 23
-	 name: arrow
+	name: 'arrow'
 }
 item {
 	id: 19
-	 name: gift
+	name: 'gift'
 }
 item {
 	id: 18
-	 name: roasted_meat
+	name: 'roasted_meat'
 }
 item {
 	id: 9
-	 name: tablet
+	name: 'tablet'
 }
 item {
 	id: 83
-	 name: tshirt
+	name: 'tshirt'
 }
