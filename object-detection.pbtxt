@@ -1,4 +1,4 @@
-tem {
+item {
 	id: 108
 	name: 's_cloud_lightning'
 }
@@ -387,12 +387,12 @@ item {
 	name: 's_pear'
 }
 item {
-	id: 154
-	name: 's_hand_saw'
-}
-item {
 	id: 155
 	name: 's_tree'
+}
+item {
+	id: 154
+	name: 's_hand_saw'
 }
 item {
 	id: 62
@@ -551,12 +551,12 @@ item {
 	name: 'cake'
 }
 item {
-	id: 178
-	name: 's_laptop'
-}
-item {
 	id: 75
 	name: 'car'
+}
+item {
+	id: 178
+	name: 's_laptop'
 }
 item {
 	id: 179
@@ -595,12 +595,12 @@ item {
 	name: 's_fan'
 }
 item {
-	id: 182
-	name: 's_burger'
-}
-item {
 	id: 183
 	name: 's_vault'
+}
+item {
+	id: 182
+	name: 's_burger'
 }
 item {
 	id: 184
@@ -707,16 +707,16 @@ item {
 	name: 's_fock_spoon_knife'
 }
 item {
-	id: 47
-	name: 'shirt_stud'
+	id: 198
+	name: 's_gift'
 }
 item {
 	id: 84
 	name: 'ship'
 }
 item {
-	id: 198
-	name: 's_gift'
+	id: 47
+	name: 'shirt_stud'
 }
 item {
 	id: 199
