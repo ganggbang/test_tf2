@@ -1,294 +1,262 @@
 item {
-	id: 17
-	name: 'fan'
+	id: 163
+	name: 's_telephone_receiver'
 }
 item {
-	id: 46
-	name: 'flawer'
+	id: 77
+	name: 'painting_board'
 }
 item {
-	id: 1
-	name: 'tshirt_number'
+	id: 208
+	name: 's_upper'
 }
 item {
-	id: 75
-	name: 'car'
+	id: 188
+	name: 's_scraper'
 }
 item {
-	id: 111
-	name: 's_telephone'
+	id: 40
+	name: 'badge'
 }
 item {
-	id: 29
-	name: 'scraper'
+	id: 28
+	name: 'house'
 }
 item {
-	id: 44
-	name: 'baseball'
+	id: 179
+	name: 's_mobile'
 }
 item {
-	id: 182
-	name: 's_burger'
+	id: 112
+	name: 's_toaster'
 }
 item {
-	id: 81
-	name: 'truck'
+	id: 54
+	name: 'headphone'
 }
 item {
-	id: 125
-	name: 's_tennis'
+	id: 96
+	name: 'building'
 }
 item {
-	id: 159
-	name: 's_hood'
+	id: 78
+	name: 'aeroplane'
 }
 item {
-	id: 161
-	name: 's_heel_shoes'
+	id: 57
+	name: 'cloud_lightning'
 }
 item {
-	id: 192
-	name: 's_racket'
+	id: 6
+	name: 'scooty'
 }
 item {
-	id: 39
-	name: 'heel_shoes'
+	id: 143
+	name: 's_speaker'
 }
 item {
-	id: 88
-	name: 'toaster'
+	id: 74
+	name: 'frock'
 }
 item {
-	id: 102
-	name: 'mobile'
+	id: 51
+	name: 'apple'
 }
 item {
-	id: 83
-	name: 'tshirt'
+	id: 2
+	name: 'shoes'
 }
 item {
-	id: 64
-	name: 'cup_in_plate'
+	id: 82
+	name: 'telephone'
 }
 item {
-	id: 189
-	name: 's_jug'
+	id: 181
+	name: 's_fan'
 }
 item {
-	id: 186
-	name: 's_tablet'
+	id: 115
+	name: 's_bike'
 }
 item {
-	id: 149
-	name: 's_house'
+	id: 117
+	name: 's_saucepan'
 }
 item {
-	id: 207
-	name: 's_arrow'
-}
-item {
-	id: 174
-	name: 's_shoes'
-}
-item {
-	id: 3
-	name: 'sparrow'
-}
-item {
-	id: 185
-	name: 's_scooty'
-}
-item {
-	id: 155
-	name: 's_tree'
-}
-item {
-	id: 106
-	name: 'watermelon'
-}
-item {
-	id: 113
-	name: 's_teapot'
-}
-item {
-	id: 178
-	name: 's_laptop'
-}
-item {
-	id: 16
-	name: 'watch'
-}
-item {
-	id: 85
-	name: 'mouse'
-}
-item {
-	id: 145
-	name: 's_roasted_meat'
-}
-item {
-	id: 60
-	name: 'usb'
-}
-item {
-	id: 175
-	name: 's_cake'
-}
-item {
-	id: 124
-	name: 's_baseball'
-}
-item {
-	id: 47
-	name: 'shirt_stud'
-}
-item {
-	id: 80
-	name: 'apple_in_plate'
-}
-item {
-	id: 204
-	name: 's_bowl_chopsticks'
-}
-item {
-	id: 180
-	name: 's_apple_in_plate'
-}
-item {
-	id: 123
-	name: 's_swimming_ring'
-}
-item {
-	id: 176
-	name: 's_cup'
-}
-item {
-	id: 52
-	name: 'bell'
-}
-item {
-	id: 202
-	name: 's_plant'
-}
-item {
-	id: 62
-	name: 'camera'
-}
-item {
-	id: 95
-	name: 'pear'
-}
-item {
-	id: 170
-	name: 's_lcd'
-}
-item {
-	id: 132
-	name: 's_seazer'
-}
-item {
-	id: 169
-	name: 's_cloud_with_lightning'
-}
-item {
-	id: 108
-	name: 's_cloud_lightning'
-}
-item {
-	id: 4
-	name: 'photo'
-}
-item {
-	id: 209
-	name: 's_hammer'
-}
-item {
-	id: 213
-	name: 's_fork_spoon'
-}
-item {
-	id: 126
-	name: 's_ship'
+	id: 41
+	name: 'umbrella'
 }
 item {
 	id: 69
 	name: 'shuttlecock'
 }
 item {
-	id: 200
-	name: 's_umbrella'
-}
-item {
-	id: 86
-	name: 'telephone_receiver'
-}
-item {
-	id: 191
-	name: 's_chicken'
-}
-item {
-	id: 61
-	name: 'tennis'
-}
-item {
-	id: 15
-	name: 'kattle'
-}
-item {
 	id: 48
 	name: 'speaker'
 }
 item {
-	id: 104
-	name: 'washing_machine'
+	id: 55
+	name: 'disket'
 }
 item {
-	id: 187
-	name: 's_glass'
+	id: 132
+	name: 's_scissors'
 }
 item {
-	id: 37
-	name: 'sun'
+	id: 200
+	name: 's_umbrella'
+}
+item {
+	id: 39
+	name: 'heel_shoes'
+}
+item {
+	id: 76
+	name: 'tree'
+}
+item {
+	id: 183
+	name: 's_vault'
+}
+item {
+	id: 32
+	name: 'charry'
+}
+item {
+	id: 53
+	name: 'socks'
+}
+item {
+	id: 89
+	name: 'cross'
+}
+item {
+	id: 118
+	name: 's_ball'
+}
+item {
+	id: 189
+	name: 's_hanger'
+}
+item {
+	id: 19
+	name: 'gift'
+}
+item {
+	id: 84
+	name: 'ship'
+}
+item {
+	id: 141
+	name: 's_watch'
+}
+item {
+	id: 20
+	name: 'upper'
+}
+item {
+	id: 105
+	name: 'axe'
+}
+item {
+	id: 47
+	name: 'shirt_stud'
+}
+item {
+	id: 93
+	name: 'plant'
+}
+item {
+	id: 17
+	name: 'fan'
+}
+item {
+	id: 134
+	name: 's_truck'
+}
+item {
+	id: 64
+	name: 'cup_in_plate'
+}
+item {
+	id: 83
+	name: 'tshirt'
+}
+item {
+	id: 159
+	name: 's_hood'
+}
+item {
+	id: 209
+	name: 's_hammer'
+}
+item {
+	id: 196
+	name: 's_badge'
+}
+item {
+	id: 73
+	name: 'swimming_ring'
+}
+item {
+	id: 178
+	name: 's_laptop'
+}
+item {
+	id: 180
+	name: 's_apple_in_plate'
+}
+item {
+	id: 30
+	name: 'burger'
+}
+item {
+	id: 29
+	name: 'scraper'
+}
+item {
+	id: 65
+	name: 'hanger'
+}
+item {
+	id: 100
+	name: 'pool'
+}
+item {
+	id: 11
+	name: 'bike'
+}
+item {
+	id: 43
+	name: 'chicken'
+}
+item {
+	id: 26
+	name: 'bowl_chopsticks'
 }
 item {
 	id: 127
 	name: 's_kattle'
 }
 item {
-	id: 146
-	name: 's_shirt_stud'
+	id: 80
+	name: 'apple_in_plate'
 }
 item {
-	id: 157
-	name: 's_lamp'
+	id: 62
+	name: 'camera'
 }
 item {
-	id: 49
-	name: 'lcd'
+	id: 176
+	name: 's_cup'
 }
 item {
-	id: 139
-	name: 's_washing_machine'
+	id: 149
+	name: 's_house'
 }
 item {
-	id: 97
-	name: 'hand_saw'
-}
-item {
-	id: 163
-	name: 's_telephone_receiver'
-}
-item {
-	id: 56
-	name: 'hood'
-}
-item {
-	id: 33
-	name: 'racket'
-}
-item {
-	id: 179
-	name: 's_mobile'
+	id: 31
+	name: 'bowling_pins'
 }
 item {
 	id: 153
@@ -303,526 +271,542 @@ item {
 	name: 'hammer'
 }
 item {
-	id: 103
-	name: 'jacket'
+	id: 213
+	name: 's_fork_spoon'
 }
 item {
-	id: 130
-	name: 's_camera'
-}
-item {
-	id: 78
-	name: 'aeroplane'
-}
-item {
-	id: 54
-	name: 'headphone'
-}
-item {
-	id: 109
-	name: 's_flag'
-}
-item {
-	id: 21
-	name: 'glove'
-}
-item {
-	id: 173
-	name: 's_graduation_cap'
-}
-item {
-	id: 45
-	name: 'key'
-}
-item {
-	id: 197
-	name: 's_knife_fork_spoon'
-}
-item {
-	id: 140
-	name: 's_shuttlecock'
-}
-item {
-	id: 158
-	name: 's_guitar'
-}
-item {
-	id: 194
-	name: 's_chair'
-}
-item {
-	id: 55
-	name: 'disket'
-}
-item {
-	id: 72
-	name: 'teapot'
-}
-item {
-	id: 74
-	name: 'frock'
-}
-item {
-	id: 68
-	name: 'flag'
-}
-item {
-	id: 201
-	name: 's_bear'
-}
-item {
-	id: 198
-	name: 's_gift'
-}
-item {
-	id: 38
-	name: 'saucepan'
-}
-item {
-	id: 93
-	name: 'plant'
-}
-item {
-	id: 131
-	name: 's_key'
-}
-item {
-	id: 63
-	name: 'guitar'
-}
-item {
-	id: 143
-	name: 's_speaker'
-}
-item {
-	id: 142
-	name: 's_aeroplane'
-}
-item {
-	id: 128
-	name: 's_brinjal'
-}
-item {
-	id: 26
-	name: 'bowl_chopsticks'
-}
-item {
-	id: 165
-	name: 's_jacket'
-}
-item {
-	id: 92
-	name: 'cap'
-}
-item {
-	id: 66
-	name: 'bus'
-}
-item {
-	id: 57
-	name: 'cloud_with_lightning'
-}
-item {
-	id: 133
-	name: 's_cap'
-}
-item {
-	id: 100
-	name: 'pool'
-}
-item {
-	id: 58
-	name: 'basketball'
-}
-item {
-	id: 34
-	name: 'knife_fork_spoon'
-}
-item {
-	id: 172
-	name: 's_flawer'
-}
-item {
-	id: 36
-	name: 'flower'
-}
-item {
-	id: 129
-	name: 's_shirt'
-}
-item {
-	id: 171
-	name: 's_bicycle'
-}
-item {
-	id: 51
-	name: 'apple'
-}
-item {
-	id: 206
-	name: 's_tshirt'
-}
-item {
-	id: 117
-	name: 's_saucepan'
-}
-item {
-	id: 40
-	name: 'badge'
-}
-item {
-	id: 122
-	name: 's_bell'
-}
-item {
-	id: 20
-	name: 'upper'
-}
-item {
-	id: 181
-	name: 's_fan'
-}
-item {
-	id: 168
-	name: 's_earth'
-}
-item {
-	id: 73
-	name: 'swimming_ring'
-}
-item {
-	id: 203
-	name: 's_usb'
-}
-item {
-	id: 135
-	name: 's_bowling'
-}
-item {
-	id: 193
-	name: 's_glove'
-}
-item {
-	id: 211
-	name: 's_soccer'
-}
-item {
-	id: 208
-	name: 's_upper'
-}
-item {
-	id: 152
-	name: 's_frock'
-}
-item {
-	id: 215
-	name: 's_tshirt_number'
-}
-item {
-	id: 190
-	name: 's_ambulance'
-}
-item {
-	id: 70
-	name: 'brinjal'
-}
-item {
-	id: 119
-	name: 's_bus'
-}
-item {
-	id: 121
-	name: 's_building'
-}
-item {
-	id: 162
-	name: 's_sparrow'
-}
-item {
-	id: 53
-	name: 'socks'
-}
-item {
-	id: 76
-	name: 'tree'
-}
-item {
-	id: 9
-	name: 'tablet'
-}
-item {
-	id: 12
-	name: 'soccer'
-}
-item {
-	id: 151
-	name: 's_charry'
-}
-item {
-	id: 150
-	name: 's_cup_in_plate'
-}
-item {
-	id: 41
-	name: 'umbrella'
-}
-item {
-	id: 134
-	name: 's_truck'
-}
-item {
-	id: 205
-	name: 's_pressure_cooker'
-}
-item {
-	id: 120
-	name: 's_pool'
-}
-item {
-	id: 167
-	name: 's_axe'
+	id: 170
+	name: 's_lcd'
 }
 item {
 	id: 87
 	name: 'shirt'
 }
 item {
+	id: 3
+	name: 'sparrow'
+}
+item {
+	id: 1
+	name: 'tshirt_number'
+}
+item {
+	id: 122
+	name: 's_bell'
+}
+item {
+	id: 56
+	name: 'hood'
+}
+item {
+	id: 207
+	name: 's_arrow'
+}
+item {
 	id: 154
 	name: 's_hand_saw'
-}
-item {
-	id: 156
-	name: 's_apple'
-}
-item {
-	id: 137
-	name: 's_car'
-}
-item {
-	id: 10
-	name: 'cup'
-}
-item {
-	id: 166
-	name: 's_bag'
-}
-item {
-	id: 31
-	name: 'bowling_pins'
-}
-item {
-	id: 32
-	name: 'charry'
-}
-item {
-	id: 65
-	name: 'jug'
-}
-item {
-	id: 84
-	name: 'ship'
-}
-item {
-	id: 118
-	name: 's_ball'
-}
-item {
-	id: 18
-	name: 'roasted_meat'
-}
-item {
-	id: 50
-	name: 'vault'
-}
-item {
-	id: 196
-	name: 's_badge'
-}
-item {
-	id: 7
-	name: 'earth'
-}
-item {
-	id: 136
-	name: 's_bowling_pins'
-}
-item {
-	id: 138
-	name: 's_sun'
-}
-item {
-	id: 6
-	name: 'scooty'
-}
-item {
-	id: 89
-	name: 'cross'
-}
-item {
-	id: 28
-	name: 'house'
-}
-item {
-	id: 27
-	name: 'bicycle'
-}
-item {
-	id: 43
-	name: 'chicken'
 }
 item {
 	id: 144
 	name: 's_painting_board'
 }
 item {
-	id: 90
-	name: 'ambulance'
+	id: 25
+	name: 'fork_spoon'
 }
 item {
-	id: 82
-	name: 'telephone'
+	id: 174
+	name: 's_shoes'
 }
 item {
-	id: 148
-	name: 's_basketball'
+	id: 108
+	name: 's_cloud_lightning'
 }
 item {
-	id: 107
-	name: 'cloud_lightning'
+	id: 63
+	name: 'guitar'
 }
 item {
-	id: 13
-	name: 'hat'
+	id: 50
+	name: 'vault'
 }
 item {
-	id: 147
-	name: 's_disket'
+	id: 33
+	name: 'racket'
 }
 item {
-	id: 184
-	name: 's_flower'
+	id: 14
+	name: 'scissors'
 }
 item {
-	id: 94
-	name: 'ball'
+	id: 10
+	name: 'cup'
 }
 item {
-	id: 116
-	name: 's_mouse'
-}
-item {
-	id: 79
-	name: 'cake'
-}
-item {
-	id: 91
-	name: 'lamp'
-}
-item {
-	id: 30
-	name: 'burger'
-}
-item {
-	id: 112
-	name: 's_toaster'
+	id: 66
+	name: 'bus'
 }
 item {
 	id: 8
 	name: 'chair'
 }
 item {
-	id: 210
-	name: 's_socks'
+	id: 139
+	name: 's_washing_machine'
 }
 item {
-	id: 22
-	name: 'bag'
+	id: 171
+	name: 's_bicycle'
 }
 item {
-	id: 164
-	name: 's_headphone'
+	id: 103
+	name: 'retro_camera'
 }
 item {
-	id: 19
-	name: 'gift'
+	id: 201
+	name: 's_bear'
 }
 item {
-	id: 183
-	name: 's_vault'
+	id: 194
+	name: 's_chair'
 }
 item {
-	id: 188
-	name: 's_scraper'
+	id: 68
+	name: 'flag'
 }
 item {
-	id: 105
-	name: 'axe'
+	id: 206
+	name: 's_tshirt'
 }
 item {
-	id: 96
-	name: 'building'
+	id: 90
+	name: 'ambulance'
 }
 item {
-	id: 99
-	name: 'bear'
+	id: 21
+	name: 'glove'
 }
 item {
-	id: 23
-	name: 'arrow'
+	id: 156
+	name: 's_apple'
 }
 item {
-	id: 14
-	name: 'seazer'
+	id: 145
+	name: 's_roasted_meat'
+}
+item {
+	id: 136
+	name: 's_bowling_pins'
+}
+item {
+	id: 158
+	name: 's_guitar'
+}
+item {
+	id: 190
+	name: 's_ambulance'
+}
+item {
+	id: 88
+	name: 'toaster'
+}
+item {
+	id: 215
+	name: 's_tshirt_number'
+}
+item {
+	id: 12
+	name: 'soccer'
+}
+item {
+	id: 13
+	name: 'hat'
+}
+item {
+	id: 169
+	name: 's_dress'
+}
+item {
+	id: 185
+	name: 's_scooty'
+}
+item {
+	id: 70
+	name: 'brinjal'
+}
+item {
+	id: 125
+	name: 's_tennis'
+}
+item {
+	id: 186
+	name: 's_tablet'
+}
+item {
+	id: 9
+	name: 'tablet'
+}
+item {
+	id: 113
+	name: 's_teapot'
+}
+item {
+	id: 102
+	name: 'mobile'
+}
+item {
+	id: 45
+	name: 'key'
+}
+item {
+	id: 166
+	name: 's_bag'
+}
+item {
+	id: 173
+	name: 's_graduation_cap'
+}
+item {
+	id: 58
+	name: 'basketball'
+}
+item {
+	id: 124
+	name: 's_baseball'
 }
 item {
 	id: 98
 	name: 'pressure_cooker'
 }
 item {
-	id: 195
-	name: 's_cross'
+	id: 5
+	name: 'laptop'
 }
 item {
-	id: 141
-	name: 's_watch'
+	id: 192
+	name: 's_racket'
 }
 item {
-	id: 11
-	name: 'bike'
+	id: 16
+	name: 'watch'
 }
 item {
-	id: 2
-	name: 'shoes'
+	id: 198
+	name: 's_gift'
 }
 item {
-	id: 115
-	name: 's_bike'
+	id: 72
+	name: 'teapot'
 }
 item {
-	id: 24
-	name: 'bowling'
-}
-item {
-	id: 25
-	name: 'fork_spoon'
-}
-item {
-	id: 177
-	name: 's_watermelon'
-}
-item {
-	id: 77
-	name: 'painting_board'
+	id: 203
+	name: 's_usb'
 }
 item {
 	id: 67
 	name: 'glass'
 }
 item {
-	id: 5
-	name: 'laptop'
+	id: 175
+	name: 's_cake'
+}
+item {
+	id: 18
+	name: 'roasted_meat'
+}
+item {
+	id: 121
+	name: 's_building'
+}
+item {
+	id: 116
+	name: 's_mouse'
+}
+item {
+	id: 126
+	name: 's_ship'
+}
+item {
+	id: 197
+	name: 's_fork_spoon_knife'
+}
+item {
+	id: 92
+	name: 'cap'
+}
+item {
+	id: 161
+	name: 's_heel_shoes'
+}
+item {
+	id: 165
+	name: 's_retro_camera'
+}
+item {
+	id: 152
+	name: 's_frock'
+}
+item {
+	id: 177
+	name: 's_watermelon'
+}
+item {
+	id: 164
+	name: 's_headphone'
+}
+item {
+	id: 109
+	name: 's_flag'
+}
+item {
+	id: 204
+	name: 's_bowl_chopsticks'
+}
+item {
+	id: 157
+	name: 's_lamp'
+}
+item {
+	id: 61
+	name: 'tennis'
+}
+item {
+	id: 106
+	name: 'watermelon'
+}
+item {
+	id: 120
+	name: 's_pool'
+}
+item {
+	id: 140
+	name: 's_shuttlecock'
+}
+item {
+	id: 187
+	name: 's_glass'
+}
+item {
+	id: 151
+	name: 's_charry'
+}
+item {
+	id: 167
+	name: 's_axe'
+}
+item {
+	id: 129
+	name: 's_shirt'
+}
+item {
+	id: 99
+	name: 'bear'
+}
+item {
+	id: 148
+	name: 's_basketball'
+}
+item {
+	id: 42
+	name: 'dress'
+}
+item {
+	id: 193
+	name: 's_glove'
+}
+item {
+	id: 205
+	name: 's_pressure_cooker'
+}
+item {
+	id: 91
+	name: 'lamp'
+}
+item {
+	id: 37
+	name: 'sun'
+}
+item {
+	id: 22
+	name: 'bag'
+}
+item {
+	id: 147
+	name: 's_disket'
+}
+item {
+	id: 94
+	name: 'ball'
+}
+item {
+	id: 44
+	name: 'baseball'
+}
+item {
+	id: 182
+	name: 's_burger'
+}
+item {
+	id: 128
+	name: 's_brinjal'
 }
 item {
 	id: 199
 	name: 's_hat'
+}
+item {
+	id: 52
+	name: 'bell'
+}
+item {
+	id: 130
+	name: 's_camera'
+}
+item {
+	id: 97
+	name: 'hand_saw'
+}
+item {
+	id: 146
+	name: 's_shirt_stud'
+}
+item {
+	id: 60
+	name: 'usb'
+}
+item {
+	id: 155
+	name: 's_tree'
+}
+item {
+	id: 131
+	name: 's_key'
+}
+item {
+	id: 24
+	name: 'bowling'
+}
+item {
+	id: 150
+	name: 's_cup_in_plate'
+}
+item {
+	id: 81
+	name: 'truck'
+}
+item {
+	id: 38
+	name: 'saucepan'
+}
+item {
+	id: 119
+	name: 's_bus'
+}
+item {
+	id: 27
+	name: 'bicycle'
+}
+item {
+	id: 86
+	name: 'telephone_receiver'
+}
+item {
+	id: 49
+	name: 'lcd'
+}
+item {
+	id: 95
+	name: 'pear'
+}
+item {
+	id: 75
+	name: 'car'
+}
+item {
+	id: 36
+	name: 'flower'
+}
+item {
+	id: 135
+	name: 's_bowling'
+}
+item {
+	id: 195
+	name: 's_cross'
+}
+item {
+	id: 111
+	name: 's_telephone'
+}
+item {
+	id: 210
+	name: 's_socks'
+}
+item {
+	id: 202
+	name: 's_plant'
+}
+item {
+	id: 138
+	name: 's_sun'
+}
+item {
+	id: 15
+	name: 'kattle'
+}
+item {
+	id: 104
+	name: 'washing_machine'
+}
+item {
+	id: 133
+	name: 's_cap'
+}
+item {
+	id: 162
+	name: 's_sparrow'
+}
+item {
+	id: 142
+	name: 's_aeroplane'
+}
+item {
+	id: 137
+	name: 's_car'
+}
+item {
+	id: 191
+	name: 's_chicken'
+}
+item {
+	id: 184
+	name: 's_flower'
+}
+item {
+	id: 7
+	name: 'earth'
+}
+item {
+	id: 23
+	name: 'arrow'
+}
+item {
+	id: 211
+	name: 's_soccer'
+}
+item {
+	id: 85
+	name: 'mouse'
+}
+item {
+	id: 79
+	name: 'cake'
+}
+item {
+	id: 168
+	name: 's_earth'
+}
+item {
+	id: 123
+	name: 's_swimming_ring'
 }
